@@ -11,7 +11,7 @@ Outlining most of the foundational thinking behind each page in IFCOM. Useful re
 
 ## How Work is Organized
 
-(Cultivate Development Board)[https://github.com/orgs/foodfoundation/projects/4]
+[Cultivate Development Board](https://github.com/orgs/foodfoundation/projects/4)
 
 Issues are created for tasks or projects. Contributors are encouraged to read the description to understand the scope of the task. 
 
